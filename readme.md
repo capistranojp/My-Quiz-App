@@ -41,8 +41,13 @@ python quiz_app.py
 
 ## 📸 UI Preview
 
-*(Add screenshot here if desired)*
+![Screenshot 2025-05-06 174620](https://github.com/user-attachments/assets/1cb50077-3ae4-4238-aafc-716c0dbc10ac)
+![Screenshot 2025-05-06 174627](https://github.com/user-attachments/assets/736b5f9f-af1a-4c33-b6bd-29d321e1f62c)
+![Screenshot 2025-05-06 174634](https://github.com/user-attachments/assets/6acba395-7d89-4e38-bcbd-7ab51f1ab473)
+![Screenshot 2025-05-06 174642](https://github.com/user-attachments/assets/a3570f16-8f6c-4c3e-909f-3deb3a7663b1)
+
 
 ---
 
 Made with ❤️ using Python & CustomTkinter
+
